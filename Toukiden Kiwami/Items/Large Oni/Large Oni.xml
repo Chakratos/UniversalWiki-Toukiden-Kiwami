@@ -1,0 +1,1140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <LargeOni
+	name="Manhunter | Normal"
+	picture="Manhunter"
+	stretch="Uniform"
+  description="Normal: 
+  White thread, Manhunter mane, Abyss drop, Manhunter hornbit, Manhunter sickle, Black exoskeleton, Manhunter claw, Black sand, Voice of anguish"
+  descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Manhunter | Ex"
+	picture="Manhunter"
+	stretch="Uniform"
+  description="Ex: 
+  Soul crystal, Pure white thread, Hell drop, Manhunter horn, Deadly sickle, Jetblack exoskeleton, Manhunter razor, Oni's tear, Moan of lament, Polyhedron crystal"
+  descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Manhunter | Ultimate"
+	picture="Manhunter"
+	stretch="Uniform"
+  description="Ultimate: 
+  Pronged eggshell, Vacuum drop, Manhunter truehorn, Reaping sickle, Obsidian exoskeleton, Manhunter slasher, Puresoul crystal, Murksoul crystal, Otherworldly diamond"
+  descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Bloodhunter | Normal"
+	picture="Bloodhunter"
+	stretch="Uniform"
+  description="Normal: 
+  Rock pellet, Bloodhunter mane, True abyss drop, Bloodhunter hornbit, Bloodhunter sickle, White exoskeleton, Bloodhunter claw, Voice of lament, Voice of resentment"
+	descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+name="Bloodhunter | Ex"
+picture="Bloodhunter"
+stretch="Uniform"
+description="Ex: 
+  Whisper of affection, Hard rock pellet, Hades drop, Bloodhunter horn, Fatal sickle, Pale exoskeleton, Bloodhunter razor, Moan of lament, Polyhedron crystal, Roar of valor"
+descriptionFontSize = "14"
+advDescription = ""
+advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+name="Bloodhunter | Ultimate"
+picture="Bloodhunter"
+stretch="Uniform"
+description="Ultimate: 
+  White egg shell, Infinity drop, Bloodhunter truehorn, Abyss sickle, Purest exoskeleton, Bloodhunter slasher, Murksoul crystal, Otherworldly diamond, Sin shard"
+descriptionFontSize = "14"
+advDescription = ""
+advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Windshredder | Normal"
+	picture="Windshredder"
+	stretch="Uniform"
+  description="Normal: 
+  Windshredder shell, Golden mane, Dust storm, Windshredder hornbit, Airblade, Windshredder claw, Quick leg shell, Gale tail, Black sand, Voice of lament"
+	descriptionFontSize = "14"
+  advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Windshredder | Ex"
+	picture="Windshredder"
+	stretch="Uniform"
+  description="Ex: 
+  Voice of despair, Hardened windshell, Whirling dust, Windshredder horns, Sharp airblade, Windshredder razor, Hard quick leg shell, Squall tail, Oni's tear, Moan of lament, Polyhedron crystal"
+	descriptionFontSize = "14"
+  advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Windshredder |Ultimate"
+	picture="Windshredder"
+	stretch="Uniform"
+  description="Ultimate: 
+  Condensed windshell, Whirlwind dust, Shredder truehorn, Slicing airblade, Windshredder slasher, Mighty leg shell, Thunderhead tail, Puresoul crystal, Murksoul crystal, Otherworldly diamond"
+	descriptionFontSize = "14"
+  advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Skyshredder | Normal"
+	picture="Skyshredder"
+	stretch="Uniform"
+  description="Normal: 
+  Skyshredder shell, Platinum mane, Brilliant light, Skyshredder hornbit, Skyblade, Skyshredder claw, Flying leg shell, Storm tail, Voice of anguish, Voice of resentment"
+	descriptionFontSize = "14"
+advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Skyshredder | Ex"
+	picture="Skyshredder"
+	stretch="Uniform"
+  description="Ex:
+  Whisper of affection, Skyshredder shield, Heavenly light, Skyshredder horns, Sharp skyblade, Skyshredder razor, Hard flying legshell, Sky tail, Oni's tear, Moan of anguish, Roar of valor"
+	descriptionFontSize = "14"
+  advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Skyshredder | Ultimate"
+	picture="Skyshredder"
+	stretch="Uniform"
+  description="Ultimate:
+  Skysilver armor, Ultimate light, Shreder truehorn, Slashing skyblade, Skyshredder slasher, Iron flying legshell, Skyblade tail, Puresoul crystal, Oni's large club, Sin shard"
+	descriptionFontSize = "14"
+  advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Jollux | Normal"
+	picture="Jollux"
+	stretch="Uniform"
+	description= "Normal:
+  Adamantine hair, Surfeit molar, Revolving mountain, Jollux hornbit, Horned mountains, Jollux arm shell, Jollux leg shell, Oni's club, Voice of anguish"
+	descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Jollux | Ex"
+	picture="Jollux"
+	stretch="Uniform"
+	description= "Ex:
+  Soul crystal, Strong adamantine, Flowing mountain, Jollux horns, Divine mountains, Rocky arm shell, Rocky leg shell, Moan of anguish, Polyhedron crystal, Roar of valor"
+	descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Jollux | Ultimate"
+	picture="Jollux"
+	stretch="Uniform"
+	description= "Ultimate:
+  Surfeit sharptooth, Rolling mountain, Jollux truehorn, Unknowable mountain, Craggy arm shell, Craggy leg shell, Oni's large club, Otherworldly diamond, Sin shard"
+	descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Edax | Normal"
+	picture="Edax"
+	stretch="Uniform"
+  description="Normal: 
+  Ice fur, Sea maw, Ripple drop, Edax hornbit, Icy mountains, Edax arm shell, Edax leg shell, Black sand, Voice of regret"
+	descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Edax | Ex"
+	picture="Edax"
+	stretch="Uniform"
+  description="Ex: 
+  Whisper of affection, Frozen ice fur, Tide drop, Edax horns, Submerged mountains, Ice arm shell, Ice leg shell, Oni's tear, Moan of lament, Polyhedron crystal"
+	descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Edax | Ultimate"
+	picture="Edax"
+	stretch="Uniform"
+  description="Ultimate: 
+  Icecrusher fang, Whirlpool drop, Edax truehorn, Ridgeback mountain, Frozen arm shell, Frozen leg shell, Puresoul crystal, Murksoul crystal, Otherworldly diamond"
+	descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Pyropteryx | Normal"
+	picture="Pyropteryx"
+	stretch="Uniform"
+	description="Normal: 
+  Blazebird ruff, Crimson crest, Heat haze, Pyropteryx hornbit, Hot breastplate, Blazebird wing, Scarlet wing, Blazebird claw, Blazebird tail, Oni's club, Voice of lament"
+	descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Pyropteryx | Ex"
+	picture="Pyropteryx"
+	stretch="Uniform"
+	description="Ex: 
+  Voice of despair, Blazebird beak, Sea fire, Pyropteryx horn, Sizzling breastplate, Flexible bone, Hellfire wing, Blazebird spur, Blazebird plume, Moan of anguish, Moan of despair, Roar of valor"
+	descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Pyropteryx | Ultimate"
+	picture="Pyropteryx"
+	stretch="Uniform"
+	description="Ultimate: 
+  Blazebird firebeak, Phantom sun, Pyropteryx truehorn, Roasting breastplate, Hotburn bone, Pureblaze wing, Blazebird leg, Blazebird flourish, Oni's large club, Oni's large tear, Sin shard"
+	descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Astrapteryx | Normal"
+	picture="Astrapteryx"
+	stretch="Uniform"
+	description="Normal: 
+  Lusterbird ruff, Blue crest, Distant thunder, Astrapyteryx hornbit, Numbing breastplate, Lusterbird wing, Thunder wing, Lusterbird claw, Lusterbird tail, Voice of lament, Voice of resentment, Otherworldly mineral"
+	descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+  <LargeOni
+name="Astrapteryx | Ex"
+picture="Astrapteryx"
+stretch="Uniform"
+description="Ex: 
+  Lusterbird beak, Thunderclap, Astrapteryx horn, Shocking breastplate, Shock resistant bone, Divine thunder wing, Lusterbird spur, Lusterbird plume, Oni's tear, Moan of lament, Moan of despair"
+descriptionFontSize = "14"
+advDescription = ""
+advDescriptionFontSize = "14"
+	/>
+  <LargeOni
+name="Astrapteryx | Ultimate"
+picture="Astrapteryx"
+stretch="Uniform"
+description="Ultimate: 
+  Luster thunderbeak, Lightning spark, Astrapteryx godhorn, Thunder breastplate, Shocking wingbone, Final thunderwing, Lusterbird leg, Luster tailplume, Puresoul crystal, Murksoul crystal, Oni's large tear"
+descriptionFontSize = "14"
+advDescription = ""
+advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Terragrinder | Normal"
+	picture="Terragrinder"
+	stretch="Uniform"
+  description="Normal: 
+  Sliding skin, Rare ore, Pulsing stone, Terragrinder hornbit, Drill tooth, Terragrinder fin, Scarlet fin, Terragrinder claw, Scarlet claw, Terragrinder sword, Terragrinder fanfin, Black sand, Voice of anguish"
+	descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Terragrinder | Ex"
+	picture="Terragrinder"
+	stretch="Uniform"
+  description="Ex: 
+  Soul crystal, Otherworldly stone, Lifestone, Terragrinder horn, Hardened drill tooth, Strong earth fin, Strong scarlet fin, Terragrinder razor, Sharp scarlet claw, Sharp earth fin, Hard earth fanfin, Moan of anguish, Moan of despair, Roar of valor"
+	descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Terragrinder | Ultimate"
+	picture="Terragrinder"
+	stretch="Uniform"
+  description="Ultimate: 
+  Slippery slimeskin, Philosopher's stone, Terra truehorn, Diamond drilltooth, Mighty earthfin, Mighty scarlet fin, Terragrinder slasher, True scarlet claw, Mighty earthfin, Earth-smash fanfin, Oni's large club, Oni's large tear, Sin shard"
+	descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Pyrogrinder | Normal"
+	picture="Pyrogrinder"
+	stretch="Uniform"
+	description="Normal: 
+  Fructuinak sjun, Primordial ore, Lava jewel, Pyrogrinder hornbit, Excavation fang, Pyrogrinder fin, Amber fin, Pyrogrinder claw, Amber claw, Pyrogrinder swordfin, Pyrogrinder fanfin, Oni's club, Voice of resentment"
+	descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Pyrogrinder | Ex"
+	picture="Pyrogrinder"
+	stretch="Uniform"
+	description="Ex: 
+  Voice of valor, Earth's navel, Egg of creation, Pyrogrinder horn, Hard excavation fang, Strong fire fin, Strong amber fin, Pyrogrinder razor, Sharp amber claw, Sharp fire fin, Hard fire fanfin, Oni's tear, Polyhedron crystal, Moan of despair"
+	descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Pyrogrinder | Ultimate"
+	picture="Pyrogrinder"
+	stretch="Uniform"
+	description="Ultimate: 
+  Frictional burnskin, Underworld jewel, Pyro truehorn, Magma fang, Blazing firefin, Ultimate amber fin, Pyrogrinder slasher, Ultimate amber claw, Blazing swordfin, Heightened fanfin, Puresoul crystal, Otherworldly diamond, Oni's large tear, Otherworldly diamond, Oni's large tear"
+	descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Harrowhalf | Normal"
+	picture="Harrowhalf"
+	stretch="Uniform"
+	description="Normal: 
+  Harrowhalf hair, Hundred fang maw, Blazing ice sword, Harrowhalf hornbit, Strange shield, Flame fist, Ice fist, Firesummoner, Icesummoner, Oni's club, Voice of lament"
+	descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Harrowhalf | Ex"
+	picture="Harrowhalf"
+	stretch="Uniform"
+	description="Ex: 
+  Voice of despair, Harrowhalf beard, Frozen flamesword, Harrowhalf horns, Mutant shield, Inferno fist, Frozen fist, Mighty firesummoner, Mighty icesummoner, Moan of resentment, Moan of regret, Moan of despair"
+	descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Harrowhalf | Ultimate"
+	picture="Harrowhalf"
+	stretch="Uniform"
+	description="Ultimate: 
+  Harrowhalf big beard, Spine ice burnsword, Harrowhalf truehorn, Bizarre shield, Firestrike fist, Icestrike fist, Final firesummoner, Final icesummoner, Obsidian sand, Spirit shard, Oni's large tear"
+	descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Dreadhalf | Normal"
+	picture="Dreadhalf"
+	stretch="Uniform"
+	description="Normal: 
+  Dreadhalf hair, Thousand fang maw, Stone stormsword, Dreadhalf hornbit, Underworld shield, Earth fist, Lightning fist, Earthsummoner, Stormsummoner, Voice of anguish, Otherworldly mineral"
+	descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Dreadhalf | Ex"
+	picture="Dreadhalf"
+	stretch="Uniform"
+	description="Ex: 
+  Voice of valor, Dreadhalf beard, Bedrock stormsword, Dreadhalf horns, Hades shield, Earthquake fist, Thunder fist, Mighty earthsummoner, Mighty stormsummoner, Moan of lament, Moan of regret, Vow of love"
+	descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Dreadhalf | Ultimate"
+	picture="Dreadhalf"
+	stretch="Uniform"
+	description="Ultimate: 
+  Dreadhalf full beard, Spinerock boltsword, Dreadhalf truehorn, Farbank shield, Soikstrike fist, Boltstrike fist, Final earthsummoner, Final stormsummoner, Murksoul crystal, Spirit shard, Shining polyhedron"
+	descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Viper Queen | Normal"
+	picture="Viper Queen"
+	stretch="Uniform"
+	description="Normal: 
+  Skaly skin, Wisdom fang, Water spirit, Viper Queen hornbit, Spiral fragment, High tide pearl, Dream claw, Whitewater skin, Blackwater skin, Black sand, Voice of regret"
+	descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Viper Queen | Ex"
+	picture="Viper Queen"
+	stretch="Uniform"
+	description="Ex: 
+  Whisper of affection, Tough skaly skin, Rain dragon, Viper Queen horns, Explosive spiral, Low tide pearl, Large dream claw, True whitewater skin, Blackwater horn, Moan of anguish, Moan of resentment, Polyhedron crystal"
+	descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Viper Queen | Ultimate"
+	picture="Viper Queen"
+	stretch="Uniform"
+	description="Ultimate: 
+  Wisdom truefang, Blue dragon, Viper truehorn, Blasting spiral, Godtide pearl, Final dreamclaw, Silkwhite skin, Blackwater truehorn, Oni's large club, Obsidian sand, Otherworldly diamond"
+	descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Venom Queen | Ex"
+	picture="Venom Queen"
+	stretch="Uniform"
+	description="Ex: 
+  Green scale armor, Serpent fang, Storm dragon, Venom Queen horns, Explosive ash spiral, Dragon pearl, Large storm claw, True green snhakeskin, Blue snake horn, Moan of resentment, Moan of regret, Vow of love"
+	descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Venom Queen | Ultimate"
+	picture="Venom Queen"
+	stretch="Uniform"
+	description="Ultimate: 
+  Serpent truefang, Yellow dragon, Venom truehorn, Blasting ash spiral, Thundergod pearl, Raging stormclaw, Jade snakeskin, Azure snakehorn, Obsidian sand, Spirit shard, Shining polyhedron"
+	descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Bladewing | Normal"
+	picture="Bladewing"
+	stretch="Uniform"
+	description="Normal: 
+  Explosive stone, White down, Floating rock, Bladewing hornbit, Stoneblade wing, Bladewing talon, Oni's club, Voice of regret"
+	descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Bladewing | Ex"
+	picture="Bladewing"
+	stretch="Uniform"
+	description="Ex: 
+  Soul crystal, Bladewing plume, Floating gemstone, Bladewing horns, Adamantite wing, Bladewing spur, Moan of resentment, Moan of submission, Vow of love"
+	descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Bladewing | Ultimate"
+	picture="Bladewing"
+	stretch="Uniform"
+	description="Ultimate: 
+  Purewhite down, Floating treasure, Bladewing truehorn, Mithril wing, Bladewing leg, Obsidian sand, Soulful shard, Shining polyhedron"
+	descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Frostwing | Ex"
+	picture="Frostwing"
+	stretch="Uniform"
+	description="Ex: 
+  Frostwing plume, Blue down, Flying glacier, Frostwing horns, Deep ice wing, Frostwing spur, Moan of regret, Moan of submission, Moan of despair"
+	descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Frostwing | Ultimate"
+	picture="Frostwing"
+	stretch="Uniform"
+	description="Ultimate: 
+  Turquoise down, Ascending glacier, Frostwing horn, Freezeblade wing, Frostwing leg, Spirit shard, Soulful shard, Oni's large tear"
+	descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Chthonian Fiend | Normal"
+	picture="Chthonian Fiend"
+	stretch="Uniform"
+	description="Normal: 
+  Pulsating lava, Chthonian cloak, Shadowflame, Chthonian hornbit, Chthonian beads, Chthonian arm shell, Scorching stonespike, Chthonian leg shell, Red hot claw, Chthonian tail, Flaming lotus, Voice of resentment, Voice of despair"
+	descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Chthonian Fiend | Ex"
+	picture="Chthonian Fiend"
+	stretch="Uniform"
+	description="Ex: 
+  Otherworldly mineral, Infernal lava, Infernal shadowflame, Chthonian horn, Chthonian rosary, Hard Chthonian arm, Inferno stonespike, Hard Chthonian leg, White hot claw, Chthonian rocktail, Hellfire lotus, Moan of submission, Vow of love, Song of hope"
+  descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Chthonian Fiend | Ultimate"
+	picture="Chthonian Fiend"
+	stretch="Uniform"
+	description="Ultimate: 
+  Chthonian burncloak, Hades shadowflame, Chthonian truehorn, Chthonian ragebead, True Chthonian arm, Hellburn stonespike, True Chthonian leg, Sparkling hot claw, Chthonian steeltail, Blazing lotus, Soulful shard, Shining polyhedron, Punishment shard"
+  descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+name="Abyssal Fiend | Ex"
+picture="Abyssal Fiend"
+stretch="Uniform"
+description="Ex: 
+  Infernal silver, Abyssal cloak, Dark light, Abyssal horn, Abyssal rosary, Hard Abyssal arm, Calamity stonespike, Hard Abyssal leg, Heaven thunderclaw, Abyssal rocktail, Heaven thunderlotus, Polyhedron crystal, Vow of love, Roar of valor"
+descriptionFontSize = "14"
+advDescription = ""
+advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+name="Abyssal Fiend | Ultimate"
+picture="Abyssal Fiend"
+stretch="Uniform"
+description="Ultimate: 
+  Abyssal voidcloak, True dark light, Abyssal truehorn, Abyssal grudge beads, Final abyssal arm, Terminal stonespike, Final abyssal leg, Imperial thunderclaw, Abyssal steeltail, Final thunderlotus, Otherworldly diamond, Shining polyhedron, Sin shard"
+descriptionFontSize = "14"
+advDescription = ""
+advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Hell´s Warden | Normal"
+	picture="Hell´s Warden"
+	stretch="Uniform"
+	description="Normal: 
+  Silver mane, Protective shell, Thunderice breath, Warden hornbit, Shell armament, Shell cannon, Electric horn, Silver scales, Gust tail, Voice of regret, Soul crystal"
+	descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+name="Hell´s Warden | Ex"
+picture="Hell´s Warden"
+stretch="Uniform"
+description="Ex: 
+  Voice of valor, Severing shell, Thunderice storm, Warden horn, Shell platform, Shell turret, Lightning horn, True silver scales, Tornado tail, Moan of submission, Vow of love, Song of hope"
+descriptionFontSize = "14"
+advDescription = ""
+advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+name="Hell´s Warden | Ultimate"
+picture="Hell´s Warden"
+stretch="Uniform"
+description="Ultimate: 
+  Ultra-dense shell, Thunderice torrent, Warden's horn, Shell cannonade, Shell heavy cannon, Discharge horn, Divine silver scales, Ragewind tail, Soulful shard, Shining polyhedron, Punishment shard"
+descriptionFontSize = "14"
+advDescription = ""
+advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+name="Hell´s Sentinel | Ex"
+picture="Hell´s Sentinel"
+stretch="Uniform"
+description="Ex: 
+  Shearing shell, Underworld shell, Heaven's fireball, Sentinel horn, Flame armament, Flame cannon, Attack skyhorn, Large scorch claw, Underworld tail, Moan of despair, Vow of love, Song of hope"
+descriptionFontSize = "14"
+advDescription = ""
+advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+name="Hell´s Sentinel | Ultimate"
+picture="Hell´s Sentinel"
+stretch="Uniform"
+description="Ultimate: 
+  Timeless shell, Domination fireball, Sentinel truehorn, Flame cannonade, Flame heavy cannon, Emperor skyhorn, Burnt scorchclaw, Netherworld tail, Shining polyhedron, Punishment shard"
+descriptionFontSize = "14"
+advDescription = ""
+advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Nightblade | Normal"
+	picture="Nightblade"
+	stretch="Uniform"
+	description="Normal: 
+  Nightblade plastron, Ancient helmet, Jet black snake, Nightblade hornbit, Shattered skull, Turbulent thorn, Huge arm shell, Huge arm spike, War arm, Nightblade snake, Voice of despair, Otherworldly mineral"
+	descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+name="Nightblade | Ex"
+picture="Nightblade"
+stretch="Uniform"
+description="Ex: 
+  Voice of valor, Hard plastron, Destructive snake, Nightblade horn, Large cranium, Miasmatic thorn, Strong arm shell, Strong arm spike, Mighty war arm, Nightblade snake (L), Moan of resentment, Moan of regret, Song of hope"
+descriptionFontSize = "14"
+advDescription = ""
+advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+name="Nightblade | Ultimate"
+picture="Nightblade"
+stretch="Uniform"
+description="Ultimate: 
+  Elder's helmet, Apocalyptic snake, Nightblade truehorn, Quality cranium, Blighted thorn, Mighty arm shell, Massive arm spike, Brazen war arm, Night steelsnake, Obsidian sand, Spirit shard, Punishment shard"
+descriptionFontSize = "14"
+advDescription = ""
+advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+name="Sableblade | Ex"
+picture="Sableblade"
+stretch="Uniform"
+description="Ex: 
+  Hard sable plastron, Large twisted fang, Flameice dragon, Sable horn, Large horn, Miasmatic spike, Blue arm shell, Blue arm spike, Mighty battle arm, Large dragon tail, Moan of submission, Roar of valor, Song of hope"
+descriptionFontSize = "14"
+advDescription = ""
+advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+name="Sableblade | Ultimate"
+picture="Sableblade"
+stretch="Uniform"
+description="Ultimate: 
+  True twisted fang, Frozenflame dragon, Sable truehorn, Large truehorn, Chaotic spike, Deep blue arm shell, Deep blue arm spike, Ultimate battle arm, Massive wyrmtail, Sin shard, Punishment shard"
+descriptionFontSize = "14"
+advDescription = ""
+advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Cimmerian King | Normal"
+	picture="Cimmerian King"
+	stretch="Uniform"
+	description="Normal: 
+  Cimmerian armor, Cimmerian helmet, Evil shadow, Cimmerian hornbit, King's wing, Large king's wing, Golden blade, Golden arm shell, Beast fang, Beast claw, Beast tail, Whisper of affection, Otherworldly mineral"
+	descriptionFontSize = "14"
+	advDescription = ""
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+name="Cimmerian King | Ex"
+picture="Cimmerian King"
+stretch="Uniform"
+description="Ex: 
+  Voice of valor, King's armor, Vortex shadow, Cimmerian horn, King's halo, True king's wing, Golden sword, Soul arm, True beast fang, Sharp beast claw, Giant beast tail, Moan of resentment, Moan of submission, Song of hope"
+descriptionFontSize = "14"
+advDescription = ""
+advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+name="Cimmerian King | Ultimate"
+picture="Cimmerian King"
+stretch="Uniform"
+description="Ultimate: 
+  Cimmerian truehelm, Impossible shadow, Cimmerian truehorn, King's shining halo, Final king's wing, True kingblade, Golden mighty arm, Final beast fang, Massive beast claw, Massive beast tail, Obsidian sand, Soulful shard, Punishment shard"
+descriptionFontSize = "14"
+advDescription = ""
+advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+name="Amaranthine King | Ex"
+picture="Amaranthine King"
+stretch="Uniform"
+description="Ex: 
+  Royal armor, Amaranthine helmet, Perpetual vacuum, Amaranthine horn, Royal halo, True royal wing, Great royal axe, Accursed arm, Enormous beast fang, Enormous beast claw, Enormous beast tail, Moan of regret, Moan of submission, Song of hope"
+descriptionFontSize = "14"
+advDescription = ""
+advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+name="Amaranthine King | Ultimate"
+picture="Amaranthine King"
+stretch="Uniform"
+description="Ultimate: 
+  Nightking helmet, Perpetual despair, Nightking truehorn, Royal shine halo, Final royal wing, Imperious axe blade, Bloodred mighty arm, True beast fang, Massive beast claw, Massive beast tail, Soulful shard, Punishment shard"
+descriptionFontSize = "14"
+advDescription = ""
+advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+name="Cerberus | Ex"
+picture="Cerberus"
+stretch="Uniform"
+description="Ex: 
+  Guardian's speartip, Infernal shadowflame, Abyssal cloak, Dark light, Vortex shadow, Perpetual vacuum, Rocky arm shell, Icy arm shell, Large dream claw, Large storm claw, Golden sword, Soul arm, Great royal axe, Accursed arm, Golden skull, Light sprite, Short foot, Haku sac, Gold nugget, Pure haku"
+descriptionFontSize = "14"
+advDescription = ""
+advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+  name="Nightstorm | Ultimate"
+  picture="NyA"
+  stretch="Uniform"
+  description= "Ultimate:
+Bluewater fur, Black fox spiritfur, Ghostfire waterorb, Nightstorm truehorn, Nightstorm steelclaw, Blizzard blue claw, Bluespike tail, Bluewater truetail, Otherworldly diamond, Shining polyhedron, Sin shard"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Phlogistor | Ex"
+  picture="NyA"
+  stretch="Uniform"
+  description= "Ex:
+Flame-red shell, Scorching bulb, Firetree sapling, Scorchtree horn, Scorchfruit skin, Scorchtree firehand, Scorchtree firefoot, Moan of lament, Moan of regret, Moan of submission"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Phlogistor | Ultimate"
+  picture="NyA"
+  stretch="Uniform"
+  description= "Ultimate:
+Vow of love, Woodscorch fang, Scorchtree sapling, Scorchtree truehorn, Scorchfruit seed, Scorchvines roots, Burnvine roots, Puresoul crystal, Murksoul crystal, Obsidian sand, Otherworldly diamond, Sin shard"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+
+  <LargeOni
+  name="Onyxwing | Ex"
+  picture="Onyxwing"
+  stretch="Uniform"
+  description= "Ex:
+Nightsky chestplate, Souldrink fang, Flying shadow, Nightsky horn, Nightsky membrane, Creeping claws, Large tail wing, Moan of resentment, Moan of submission, Vow of love, Roar of valor"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  
+  <LargeOni
+  name="Onyxwing | Ultimate"
+  picture="Onyxwing"
+  stretch="Uniform"
+  description= "Ultimate:
+Vibrating horn, Flying darkness, Nightsky truehorn, Nightsky wing, Darktaker claws, Freewind tail wing, Obsidian sand, Soulful shard, Otherworldly diamond, Shining polyhedron"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Putrox | Ex"
+  picture="Putrox"
+  stretch="Uniform"
+  description= "Ex:
+Black shell, Gluttonous tooth, Void core, Putrox horn, Skyshocker bone, Soilshocker bone, Putrox husk arm, Putrox husk leg, Oni's tear, Moan of resentment, Moan of submission"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Putrox | Ultimate"
+  picture="Putrox"
+  stretch="Uniform"
+  description= "Ultimate:
+Polyhedron crystal, Black void armor, Writhing darkness, Putrox truehorn, Skypiercer bone, Earthpiercer bone, Black void arm, Black void greave, Oni's large club, Soulful shard, Otherworldly diamond, Shining polyhedron, Sin shard"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Panthera | Ex"
+  picture="NyA"
+  stretch="Uniform"
+  description= "Ex:
+White softfur, Black coarsefur, Seraphim cloth, Panthera horn, Skyrending claw, Panthera leg claw, Panthera truetail, Moan of resentment, Moan of regret, Polyhedron crystal"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Panthera | Ultimate"
+  picture="NyA"
+  stretch="Uniform"
+  description= "Ultimate:
+Vow of love, Celestial whisker, Cloth of light, Panthera truehorn, Skyrending trueclaw, Panthera heel claw, Panthera tail, Puresoul crystal, Oni's large club, Sin shard"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Mynx | Ex"
+  picture="Mynx"
+  stretch="Uniform"
+  description= "Ex:
+Swaying soft fur, Reverse bristlefur, Wind garment, Mynx horn, Mynx sharp claw, Mynx leg spur, Mynx tail, Moan of lament, Moan of anguish, Polyhedron crystal"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Mynx | Ultimate"
+  picture="Mynx"
+  stretch="Uniform"
+  description= "Ultimate:
+Moan of despair, Windreading whisker, Gale garment, Mynx truehorn, Mynx shredding claw, Mynx heel spur, Mynx shredding tail, Puresoul crystal, Murksoul crystal, Otherworldly diamond"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Snowflame | Ex"
+  picture="Snowflame"
+  stretch="Uniform"
+  description= "Ex:
+White foxfur, Crimson firefur, Phantom firebead, Snowflame hornbit, Swift razorclaws, Mournfire hotclaws, Redspike whitetail, Mournfire tail, Polyhedron crystal"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Snowflame | Ultimate"
+  picture="Snowflame"
+  stretch="Uniform"
+  description= "Ultimate:
+Moan of despair, Vow of love, Roar of valor, White fox spiritfur, Floating flamebead, Snowflame horn, Swift steelclaws, Mournfire hellclaws, Bloodspike puretail, Mournfire steeltail, Otherworldly diamond, Shining polyhedron, Sin shard"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Glaciabella | Ex"
+  picture="Glaciabella"
+  stretch="Uniform"
+  description= "Ex:
+Ice sparkle scale, Ice crystal crown, Crystal wave, Glaciabella horns, Water silk, Icerender claws, Iceblade scale, Moan of resentment"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Glaciabella | Ultimate"
+  picture="Glaciabella"
+  stretch="Uniform"
+  description= "Ultimate:
+Vow of love, Freezesnake fang, Ice wave, Glacia truehorns, Water gauze, Icesplitter claws, Freezeblade scale, Otherworldly diamond, Shining polyhedron"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Mortabella | Ultimate"
+  picture="NyA"
+  stretch="Uniform"
+  description= "Ultimate:
+Yellow quartz crown, Deathsnake fang, Yellow spring, Mortabella horn, Purple soil gauze, Earthsplitter claws, Yellow quartz scale, Obsidian sand, Otherworldly diamond, Shining polyhedron"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Thanatoceros | Ex"
+  picture="Thanatoceros"
+  stretch="Uniform"
+  description= "Ex:
+Royal whiskers, Golden beast fur, Sparkblade gale, Thanatoceros horn, Thanatoceros fang, Blade kingfang, Thanatos kingclaws, Kingshide, White kingtail, Bladed kingtail, Oni's tear, Moan of anguish, Polyhedron crystal"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Thanatoceros | Ultimate"
+  picture="Thanatoceros"
+  stretch="Uniform"
+  description= "Ultimate:
+Roar of valor, Thanatos shredders, Glistenblade storm, Thanatos truehorn, Thanatos final fang, Dominion greatblade, Thanatos final claws, Dominion leg, Dominion pure tail, Dominion sharpsword, Puresoul crystal, Oni's large club, Otherworldly diamond, Sin shard"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Maledictaur | Ex"
+  picture="Maledictaur"
+  stretch="Uniform"
+  description= "Ex:
+Maledictaur mane, Maledictaur hellrobe, Blackfire tormentor, Bullhead horns, Magma rockstaff, Departed's scream, Maledictaur firearm, Ragefire hot shell, Maledictaur claw, Lifestamper, Maledictaur tail, Shining burnfur, Polyhedron crystal"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Maledictaur | Ultimate"
+  picture="Maledictaur"
+  stretch="Uniform"
+  description= "Ultimate:
+Vow of love, Roar of valor, Maledictaur crown, Darkfire bullking, Bullhead truehorns, Hellblaze rockstaff, Departed's breath, Maledictaur steelarm, Ragefire hell shell, Maledictaur ironclaw, Lifecrusher, Maledictaur hardtail, Steel burnfur, Otherworldly diamond, Shining polyhedron, Sin shard"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Crepusculos | Ultimate"
+  picture="NyA"
+  stretch="Uniform"
+  description= "Ultimate:
+Annihilation mane, Timeseer oculus, Twist of light, Timewalker horn, Soulsteal beak, Soulwring feeler, Hollow armshell, Creator leg, Murksoul crystal, Oni's large club, Otherworldly diamond, Oni's large tear, Shining polyhedron"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Dreadknight | Ultimate"
+  picture="NyA"
+  stretch="Uniform"
+  description= "Ultimate:
+Tigerskin loincloth, Oni crown, Hidden matter, Imperious horn, Imperious claw, True goldstaff, Large steel arm, Large steel leg, Puresoul crystal, Murksoul crystal, Oni's large club, Obsidian sand, Spirit shard, Sin shard, Punishment shard"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Screecher | Ex"
+  picture="Screecher"
+  stretch="Uniform"
+  description= "Ex:
+Screambox, Golden crown, Wailstone, Screaming horn, Golden mantle, Polychrome wing, Glorious wing, Skydance leg, Screaming tail, Oni's tear, Moan of anguish"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Screecher | Ultimate"
+  picture="Screecher"
+  stretch="Uniform"
+  description= "Ultimate:
+Moan of despair, Screamhard beak, Lamentstone, Screaming truehorn, Heavenly mantle, Angel feather, Heavenly feather, Cloudjump claws, Screaming tailbone, Oni's large club, Oni's large tear, Sin shard"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Snaggwen | Ultimate"
+  picture="NyA"
+  stretch="Uniform"
+  description= "Ultimate:
+Writhing rotbulb, Female demon mask, Insect armor, Withering truehorn, Exploder bug, Withering trueclaws, Snakebug fang, Slithering snakebug, Obsidian sand, Shining polyhedron, Spirit shard"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Petros | Ex"
+  picture="Petros"
+  stretch="Uniform"
+  description= "Ex:
+White rockskin, Shoulder gnarl, Chaotic droplet, Petros horn, Earthshredder spike, Petros arm, Petros power arm, Petros claws, Petros leg spike, Polyhedron crystal"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Petros | Ultimate"
+  picture="Petros"
+  stretch="Uniform"
+  description= "Ultimate:
+Vow of love, Roar of valor, Rock face, Primal droplet, Petros truehorn, Eartheater spike, Petros fist, Ultimate fist, Petros power claws, Petros leg thorn, Otherworldly diamond, Shining polyhedron, Sin shard"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Anomalos | Ultimate"
+  picture="NyA"
+  stretch="Uniform"
+  description= "Ultimate:
+Silver rockskin, Yellow-blue mask, Converse droplet, Impossible truehorn, Impossible spike, Impossible arm, Incredible arm, Impossible claw, Impossible leg spike, Otherworldly diamond, Shining polyhedron, Sin shard"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Surrounds | Ex"
+  picture="NyA"
+  stretch="Uniform"
+  description= "Ex:
+Desert rose, Mirror sword, Arahabaki figure, Throwing stone, Pronged vajra, Universal lotus, Rusty armor, Offering branch, Hachiman statue, Broken hero's spear, Ancient teacup, Flame of man's realm, Bent baton, Warped coin, Rooster tail feather, Patriotic spirit, Snowflake, Restoration compass, True red clay, Sun ring, Gerontogeous steel, Heavenly wood, Blood red ore, Mysterious claw (L), Cryptid bone, Otherworldly debris"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Surrounds | Ultimate"
+  picture="NyA"
+  stretch="Uniform"
+  description= "Ultimate:
+Dotaku bell, Divine agarwood, Earthmother's Wish, Five layered robes, Paradise lotus seed, Doman, Pulsing root, Shrine grove branch, Liontooth beetle, Red armor, Denmuramasa, Wargod signal fan, Spear fork, Nightcloth, Fukusuke doll, Shipboard cannonball, Ice flower, Loyal heart, Puresoil, Straw festoon, Spiritcall metal, Bird cherry, Fabled Isle ore, Fantastical claw, Godbeast bone, Otherworldly debris"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Chimmerian Queen | Ultimate"
+  picture="NyA"
+  stretch="Uniform"
+  description= "Ultimate:
+Crimson armor, Queen's firehair, Scarlet darkness, Queen's truehorns, Queen's fire back, Queen's terror wing, Vermillion greatbow, Layered arm shell, Queen's beast claws, Queen's beast tail, Spirit shard, Soulful shard, Shining polyhedron, Sin shard, Punishment shard"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Stealthwing | Ultimate"
+  picture="NyA"
+  stretch="Uniform"
+  description= "Ultimate:
+Stealthwing chest, Windsky horn, Flying light, Stealth truehorn, True stealthwing, Skyfall claws, Skyking tail wing, Spirit shard, Soulful shard, Oni's large tear, Sin shard"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Caterwauler | Ultimate"
+  picture="NyA"
+  stretch="Uniform"
+  description= "Ultimate:
+Wailbox, Forehead feather, Scream-wail, Wailing truehorn, Jade windscale, Turquoise minor wing, Turquoise wing, Rending windclaw, Feather tail, Puresoul crystal, Oni's large club, Oni's large tear"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Cacarion | Ultimate"
+  picture="NyA"
+  stretch="Uniform"
+  description= "Ultimate:
+Cacarion crown, Cacarion hellrobe, Bluefire horseking, Horsehead truehorns, Hellfrost icestaff, Departed's deathcry, Cacarion steelarm, Rageice spark shell, Cacarion ironclaw, Life-ender, Cacarion hardtail, Steel frostfur, Otherworldly diamond, Shining polyhedron, Sin shard"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Metagnost | Ex"
+  picture="Metagnost"
+  stretch="Uniform"
+  description= "Ex:
+Impenetrable mane, Warptwist beard, Far vortex, Metagnost horn, Eatspirit sharpbeak, Soulsuck feeler, Dimensional armshell, World devourer leg, Moan of lament, Moan of anguish"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Metagnost | Ultimate"
+  picture="Metagnost"
+  stretch="Uniform"
+  description= "Ultimate:
+Polyhedron crystal, Moan of despair, Vow of love, All-seeing eye, Eternal vortex, Metagnost truehorn, Glutton sharpbeak, Soulswallow feeler, Otherworld armshell, All devourer leg, Puresoul crystal, Murksoul crystal, Oni's large club, Otherworldly diamond"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Phytodior | Ex"
+  picture="Phytodior"
+  stretch="Uniform"
+  description= "Ex:
+Mossh shell, Rotted bulb, Cursetree sapling, Cursetree horns, Cursefruit skin, Cursetree greenhand, Cursetree greenfoot, Oni's tear, Moan of resentment, Moan of submission"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Phytodior | Ultimate"
+  picture="Phytodior"
+  stretch="Uniform"
+  description= "Ultimate:
+Polyhedron crystal, Woodchew fang, Spiritree sapling, Cursetree truehorns, Cursefruit seed, Armvine roots, Creepvine roots, Oni's large club, Obsidian sand, Otherworldly diamond, Sin shard"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Aurogrinder | Ex"
+  picture="Aurogrinder"
+  stretch="Uniform"
+  description= "Ex:
+Gold scale, Gemgold scale, Wealthcaller, Aurogrinder hornbit, Aurogrinder pincers, Aurogrinder cutters, Aurogrinder claw, Aurogrinder goldclaw, Gold thorn, Sparkle thorn"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Aurogrinder | Ultimate"
+  picture="Aurogrinder"
+  stretch="Uniform"
+  description= "Ultimate:
+Gold tail, Treasure skin, Wealthbringer, Aurogrinder horn, Aurogrinder scissors, Aurogrinder slicers, Aurogrinder leg, Aurogrinder highleg, Treasure thorn, Priceless thorn, Treasure tail"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+</Items>

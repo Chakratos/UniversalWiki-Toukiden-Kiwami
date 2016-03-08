@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oni>
+	<LargeOni
+	name="Manhunter"
+	picture="Manhunter"
+	stretch="Uniform"
+	description= "A large Oni with the body of a spider and the head of a lion, they are highly feared ny the villagers. With their sickle-shaped claws, they can cut through just about anything. Amongst the larger Oni, that having killing one the mark of a worthy Slayer."
+	descriptionFontSize = "14"
+	advDescription = "Elemental Weaknesses: Fire
+  Elemental Resistances: Water"
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Bloodhunter"
+	picture="Bloodhunter"
+	stretch="Uniform"
+	description= "An Oni that has come from the deepest depths, they look like Manhunters but have a sheer white outer shell. Their claws are even larger, and appear red as if they have been dipped in blood. They are thought to be a variant of a Manhunter that has devoured multiple souls. "
+	descriptionFontSize = "14"
+	advDescription = "Elemental Weaknesses: Wind
+  Elemental Resistances: Earth"
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Windshredder"
+	picture="Windshredder"
+	stretch="Uniform"
+	description= "Windshredder has a lion (or wolf) like appearance, he has 2 large horns on his head, and he has white hair with some lines of yellow hair on his head. His face is blue with red eyes, Shredder has big teeth which he uses to hunt his prey and to eat.
+He's a quadrupedal demon and his fur is mostly golden with some marks around him, on each of his legs he has some kind of spiky object. Shredder has 3 claws on each foot.
+One thing that stands out of this fierce lion is his club-like tail which he can use to stun enemies or beat them to death. "
+	descriptionFontSize = "14"
+advDescription = "Elemental Weaknesses: Earth
+  Elemental Resistances: Wind"
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Skyshredder"
+	picture="Skyshredder"
+	stretch="Uniform"
+	description= "An Oni with claws so sharp that thy are capable of slicing through any material like it was the very sky itself. It is thought that they are Windshredders who have gained even more power by consuming so many souls. The massiv rampage houses the power of the skies, which is how they obtained their name."
+	descriptionFontSize = "14"
+advDescription = "Elemental Weaknesses: None
+  Elemental Resistances: Sky"
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Jollux"
+	picture="Jollux"
+	stretch="Uniform"
+	description= ""
+	descriptionFontSize = "14"
+  advDescription = "Elemental Weaknesses: Wind
+  Elemental Resistances: Earth"
+  advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Edax"
+	picture="Edax"
+	stretch="Uniform"
+	description= "A large demon boasting a body like that of mountain. It is highly intelligent and has been reported to use sly or cunning tactics. Its attacks making use of its overwhelming size make it a dangerous threat. If hit squarely with its rushes or charges, it is sure to crush bones. "
+	descriptionFontSize = "14"
+	advDescription = "Elemental Weaknesses: Fire
+  Elemental Resistances: Water"
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Pyropteryx"
+	picture="Pyropteryx"
+	stretch="Uniform"
+	description= ""
+	descriptionFontSize = "14"
+	advDescription = "Elemental Weaknesses: Water
+  Elemental Resistances: Fire"
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Astrapteryx"
+	picture="Astrapteryx"
+	stretch="Uniform"
+	description= ""
+	descriptionFontSize = "14"
+	advDescription = "Elemental Weaknesses: Earth
+  Elemental Resistances: Wind"
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Terragrinder"
+	picture="Terragrinder"
+	stretch="Uniform"
+	description= "Terragrinder (ツチカヅキ or 土潜, Tsuchigazuki) is a giant demon that can first be fought in chapter 3. Named after its natural habits, the demon digs with its large fins and slides across the earth as though it were water. "
+	descriptionFontSize = "14"
+	advDescription = "Elemental Weaknesses: Wind, Fire
+  Elemental Resistances: Earth, Water"
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Pyrogrinder"
+	picture="Pyrogrinder"
+	stretch="Uniform"
+	description= ""
+	descriptionFontSize = "14"
+	advDescription = "Elemental Weaknesses: Water Wind
+  Elemental Resistances: Fire"
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Harrowhalf"
+	picture="Harrowhalf"
+	stretch="Uniform"
+	description= ""
+	descriptionFontSize = "14"
+	advDescription = "Elemental Weaknesses: Sky
+  Elemental Resistances: Fire Water"
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Dreadhalf"
+	picture="Dreadhalf"
+	stretch="Uniform"
+	description= ""
+	descriptionFontSize = "14"
+	advDescription = "Elemental Weaknesses: Sky |Left Arms: Earth |Right Arms: Wind
+  Elemental Resistances: Earth, Wind"
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Viper Queen"
+	picture="Viper Queen"
+	stretch="Uniform"
+	description= ""
+	descriptionFontSize = "14"
+	advDescription = "Elemental Weaknesses: Earth
+  Elemental Resistances: Water"
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Venom Queen"
+	picture="Venom Queen"
+	stretch="Uniform"
+	description= ""
+	descriptionFontSize = "14"
+	advDescription = "Elemental Weaknesses: Earth
+  Elemental Resistances: Wind"
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Bladewing"
+	picture="Bladewing"
+	stretch="Uniform"
+	description= ""
+	descriptionFontSize = "14"
+	advDescription = "Elemental Weaknesses: Wind
+  Elemental Resistances: Earth"
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Frostwing"
+	picture="Frostwing"
+	stretch="Uniform"
+	description= ""
+	descriptionFontSize = "14"
+	advDescription = "Elemental Weaknesses: Fire
+  Elemental Resistances: Water"
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Chthonian Fiend"
+	picture="Chthonian Fiend"
+	stretch="Uniform"
+	description= ""
+	descriptionFontSize = "14"
+	advDescription = "Elemental Weaknesses: Water, Wind
+  Elemental Resistances: Fire"
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Abyssal Fiend"
+	picture="Abyssal Fiend"
+	stretch="Uniform"
+	description= ""
+	descriptionFontSize = "14"
+	advDescription = "Elemental Weaknesses: Earth
+  Elemental Resistances: Sky, Wind"
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Hell´s Warden"
+	picture="Hell´s Warden"
+	stretch="Uniform"
+	description= ""
+	descriptionFontSize = "14"
+	advDescription = "Elemental Weaknesses: Earth, Fire
+  Elemental Resistances: Water, Wind"
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Hell´s Sentinel"
+	picture="Hell´s Sentinel"
+	stretch="Uniform"
+	description= ""
+	descriptionFontSize = "14"
+	advDescription = "Elemental Weaknesses: Water
+  Elemental Resistances: Sky, Fire"
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Nightblade"
+	picture="Nightblade"
+	stretch="Uniform"
+	description= ""
+	descriptionFontSize = "14"
+	advDescription = "Elemental Weaknesses: Earth
+  Elemental Resistances: Sky, Wind"
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Sableblade"
+	picture="Sableblade"
+	stretch="Uniform"
+	description= ""
+	descriptionFontSize = "14"
+	advDescription = "Elemental Weaknesses: Sky, Wind, Earth
+  Elemental Resistances: Fire, Water"
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Cimmerian King"
+	picture="Cimmerian King"
+	stretch="Uniform"
+	description= ""
+	descriptionFontSize = "14"
+	advDescription = "Elemental Weaknesses: Water
+  Elemental Resistances: Sky, Fire"
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Amaranthine King"
+	picture="Amaranthine King"
+	stretch="Uniform"
+	description= ""
+	descriptionFontSize = "14"
+	advDescription = "Elemental Weaknesses: Earth
+  Elemental Resistances: Sky, Wind"
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+	name="Cerberus"
+	picture="Cerberus"
+	stretch="Uniform"
+	description= ""
+	descriptionFontSize = "14"
+	advDescription = "Elemental Weaknesses: 
+  Elemental Resistances: "
+	advDescriptionFontSize = "14"
+	/>
+
+  <LargeOni
+  name="Nightstorm"
+  picture="NyA"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = "Weakness:"
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Phlogistor"
+  picture="NyA"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = "Weakness:"
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Onyxwing"
+  picture="Onyxwing"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = "Weakness:"
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Putrox"
+  picture="Putrox"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = "Weakness:"
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Panthera"
+  picture="NyA"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = "Weakness:"
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Mynx"
+  picture="Mynx"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = "Weakness:"
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Snowflame"
+  picture="Snowflame"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = "Weakness:"
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Glaciabella"
+  picture="Glaciabella"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = "Weakness:"
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Mortabella"
+  picture="NyA"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = "Weakness:"
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Thanatoceros"
+  picture="Thanatoceros"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = "Weakness:"
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Maledictaur"
+  picture="Maledictaur"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = "Weakness:"
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Crepusculos"
+  picture="NyA"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = "Weakness:"
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Dreadknight"
+  picture="NyA"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = "Weakness:"
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Screecher"
+  picture="Screecher"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = "Weakness:"
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Snaggwen"
+  picture="NyA"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = "Weakness:"
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Petros"
+  picture="Petros"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = "Weakness:"
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Anomalos"
+  picture="NyA"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = "Weakness:"
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Surrounds"
+  picture="NyA"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = "Weakness:"
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Chimmerian Queen"
+  picture="NyA"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = "Weakness:"
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Stealthwing"
+  picture="NyA"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = "Weakness:"
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Caterwauler"
+  picture="NyA"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = "Weakness:"
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Cacarion"
+  picture="NyA"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = "Weakness:"
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Metagnost"
+  picture="Metagnost"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = "Weakness:"
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Phytodior"
+  picture="Phytodior"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = "Weakness:"
+  advDescriptionFontSize = "14"
+/>
+  <LargeOni
+  name="Aurogrinder"
+  picture="Aurogrinder"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = "Weakness:"
+  advDescriptionFontSize = "14"
+/>
+</Oni>

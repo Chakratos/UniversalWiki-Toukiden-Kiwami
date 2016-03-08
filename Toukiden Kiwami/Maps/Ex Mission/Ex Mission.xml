@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <ex
+  	name="Age of Yore"
+	  picture="AgeofYore"
+	  stretch="Uniform"
+  	description= "Items: 
+    Prayer of the earth, Large magatama, Valiant haniwa, Desert rose, Mirror sword, Arahabaki figure, Corrosive stone, True red clay, Diamond, Blood red ore, Mysterious fang (L), Cryptid bone, Otherworldly debris, Polishing Sand*, Beaded Necklace, Brocade scarf"
+  	descriptionFontSize = "14"
+	  advDescription = ""
+  	advDescriptionFontSize = "14"
+	/>
+
+  <ex
+    name="Age of Grace"
+  	picture="AgeofGrace"
+	  stretch="Uniform"
+    description= "Items: 
+    Hardened plant, 12-layered kimono, Throwing stone, Ceremonial bowl, Pronged vajra, Universal lotus, Rutile, True silver ore, Sun ring, Heavenly wood, Mysterious claw (L), Cryptid bone, Otherworldly debris"
+    descriptionFontSize = "14"
+	  advDescription = ""
+	  advDescriptionFontSize = "14"
+  />
+
+  <ex
+    name="Age of Chaos"
+  	picture="AgeofChaos"
+	  stretch="Uniform"
+    description= "Items: 
+    Silver bamboo, Frost branch, Warped bullet, Patriotic spirit, Snowflake, Restoration compass, Corrosive stone, True red clay, Diamond, Blood red ore, Mysterious fang (L), Cryptid bone, Otherworldly debris"
+    descriptionFontSize = "14"
+	  advDescription = ""
+	  advDescriptionFontSize = "14"
+  />
+
+  <ex
+    name="Age of War"
+  	picture="AgeofWar"
+	  stretch="Uniform"
+    description= "Items: 
+    Fireproof grass, Minium, Broken hero's spear, Flaming sword, Ancient teacup, Flame of man's realm, Rutile, True silver ore, Gerontogeous steel, Heavenly wood, Mysterious claw (L), Cryptid bone"
+    descriptionFontSize = "14"
+	  advDescription = ""
+	  advDescriptionFontSize = "14"
+  />
+
+  <ex
+    name="Age of Peace"
+  	picture="AgeofPeace"
+	  stretch="Uniform"
+    description= "Items: 
+    Cherry blossoms, Ivory carving, Courtesan's hairpin, Bent baton, Warped coin, Rooster tail feather, Corrosive stone, True red clay, Gerontogeous steel, Blood red ore, Mysterious fang (L), Cryptid bone, Otherworldly debris"
+    descriptionFontSize = "14"
+	  advDescription = ""
+	  advDescriptionFontSize = "14"
+  />
+
+  <ex
+    name="Age of Honor"
+  	picture="AgeofHonor"
+	  stretch="Uniform"
+    description= "Items: 
+    Hardwood root, Caterpillar fungus, Rusty armor, Warped broadsword, Offering branch, Hachiman statue, Rutile, True silver ore, Sun ring, Heavenly wood, Mysterious claw (L), Cryptid bone, Otherworldly debris"
+    descriptionFontSize = "14"
+	  advDescription = ""
+	  advDescriptionFontSize = "14"
+  />
+
+</Maps>

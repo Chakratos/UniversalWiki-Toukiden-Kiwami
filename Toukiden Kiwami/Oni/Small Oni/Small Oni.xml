@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oni>
+  <SmallOni
+  name="Imp"
+  picture="Imp"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Dark Imp"
+  picture="Dark Imp"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Pale Imp"
+  picture="Pale Imp"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Blazing Soul"
+  picture="Blazing Soul"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Shadow Soul"
+  picture="Shadow Soul"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Poisonspitter"
+  picture="Poisonspitter"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Sleepspitter"
+  picture="Sleepspitter"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Aurwing"
+  picture="Aurwing"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Dark Aurwing"
+  picture="Dark Aurwing"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Pale Aurwing"
+  picture="Pale Aurwing"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Earthfang"
+  picture="Earthfang"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Frostfang"
+  picture="Frostfang"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Drumble"
+  picture="Drumble"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Umbrapood"
+  picture="Umbrapood"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Crawler"
+  picture="Crawler"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Frostcrawler"
+  picture="Frostcrawler"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Thorntongue"
+  picture="Thorntongue"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Firetongue"
+  picture="Firetongue"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Rockshell"
+  picture="Rockshell"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Blistershell"
+  picture="Blistershell"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Howler"
+  picture="Howler"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Blitzer"
+  picture="Blitzer"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Sickleclaw"
+  picture="Sickleclaw"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Soulreaper"
+  picture="Soulreaper"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Razortalon"
+  picture="Razortalon"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Goldentalon"
+  picture="Goldentalon"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Aurogrinder"
+  picture="Aurogrinder"
+  stretch="Uniform"
+  description= ""
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+</Oni>

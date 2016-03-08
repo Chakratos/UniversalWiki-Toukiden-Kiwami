@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <normal
+  	name="Age of Yore"
+	  picture="AgeofYore"
+	  stretch="Uniform"
+  	description= "Items: 
+    Polishing sand, Broken haniwa, Magatama, Bronze sword, Small clay figure, Magic mirror, Marvelweed, Iron ore, Grass ring, Red clay, Amethyst, Cat's-eye, Heavenly Fibers, Deep blue ore, Mysterious claw, Mysterious fang, Jet black claw, Ancient coin"
+  	descriptionFontSize = "14"
+	  advDescription = ""
+  	advDescriptionFontSize = "14"
+	/>
+
+  <normal
+    name="Age of Grace"
+  	picture="AgeofGrace"
+	  stretch="Uniform"
+    description= "Items: 
+    Giant lotus leaf, Petrified plant, Bewitching cloth, Clam shell, Talisman, Pointed vajra, Pure lotus, Copper ore, Red clay, Polluted clay, Broken broadsword, Cat's-eye, Heavenly Fibers, Deep blue ore, Deformed bone, Petrified bone, Ancient coin"
+    descriptionFontSize = "14"
+	  advDescription = ""
+	  advDescriptionFontSize = "14"
+  />
+
+  <normal
+    name="Age of Chaos"
+  	picture="AgeofChaos"
+	  stretch="Uniform"
+    description= "Items: 
+    Eternal ice, Light snow, Broken firearm, Polar bear fur, Torn uniform, Sword of retribution, Patterned coat, Iron ore, Killing stone, Grass ring, Amethyst, Heavenly Fibers, Deep blue ore, Mysterious claw, Mysterious fang, Jet black claw, Ancient coin"
+    descriptionFontSize = "14"
+	  advDescription = ""
+	  advDescriptionFontSize = "14"
+  />
+
+  <normal
+    name="Age of War"
+  	picture="AgeofWar"
+	  stretch="Uniform"
+    description= "Items: 
+    Burning stone, Broken spear, Ruby, Bent pipe, Broken armor, War fan, Firerat pelt, Killing stone, Red clay, Broken helmet, Cat's-eye, Heavenly Fibers, Deep blue ore, Deformed skin, Petrified bone, Ancient coin"
+    descriptionFontSize = "14"
+	  advDescription = ""
+	  advDescriptionFontSize = "14"
+  />
+
+  <normal
+    name="Age of Peace"
+  	picture="AgeofPeace"
+	  stretch="Uniform"
+    description= "Items: 
+    Fallen blossoms, Amulet, Decorative hairpin, Haunted lantern, Binding rope, Tainted coin, Evening star, Copper ore, Grass ring, Polluted clay, Broken broadsword, Heavenly Fibers, Deep blue ore, Deformed bone, Mysterious claw, Petrified bone, Ancient coin"
+    descriptionFontSize = "14"
+	  advDescription = ""
+	  advDescriptionFontSize = "14"
+  />
+
+  <normal
+    name="Age of Honor"
+  	picture="AgeofHonor"
+	  stretch="Uniform"
+    description= "Items: 
+    Twisted root, Miasmatic mushroom, Chipped broadsword, Helmet crest, Solemn wooden statue, Ascetic's beads, Divine evergreen, Copper ore, Killing stone, Polluted clay, Broken broadsword, Broken helmet, Heavenly Fibers, Deep blue ore, Deformed bone, Deformed skin, Ancient coin"
+    descriptionFontSize = "14"
+	  advDescription = ""
+	  advDescriptionFontSize = "14"
+  />
+
+</Maps>

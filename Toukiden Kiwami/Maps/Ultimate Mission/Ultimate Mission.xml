@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <ex
+  	name="Age of Yore"
+	  picture="AgeofYore"
+	  stretch="Uniform"
+  	description= "Items: 
+    Dotaku bell*,  Divine agarwood*, Earthmother's wish*, Bounty goddess*, Black miasmic stone*, Puresoil*, Star fragment*, Fabled Isle ore*, Fantastical fang*, Godbeast bone*, Otherworldly deposit*, Eye of Truth mask"
+  	descriptionFontSize = "14"
+	  advDescription = ""
+  	advDescriptionFontSize = "14"
+	/>
+
+  <ex
+    name="Age of Grace"
+  	picture="AgeofGrace"
+	  stretch="Uniform"
+    description= "Items: 
+    Golden grass*, Lotus leafboat*, Five layered robes*, Demonbreaker arrow*, Paradise lotus seed*, Doman*, Seiman*, Heavy steelstone*, Whitegold ore*, Straw festoon*, Bird cherry*, Fantastical claw*, Godbeast bone*, Otherworldly deposit*, Eye of Truth mask"
+    descriptionFontSize = "14"
+	  advDescription = ""
+	  advDescriptionFontSize = "14"
+  />
+
+  <ex
+    name="Age of Chaos"
+  	picture="AgeofChaos"
+	  stretch="Uniform"
+    description= "Items: 
+    Icy crystal*, Snowcotton*, Redbear furwood*, Shipboard cannonball*, Ice flower*, Loyal heart*, Creationist compass*, Black miasmic stone*, Puresoil*, Star fragment*, Fabled Isle ore*, Fantastical fang*, Godbeast bone*, Otherworldly deposit*, Eye of Truth mask"
+    descriptionFontSize = "14"
+	  advDescription = ""
+	  advDescriptionFontSize = "14"
+  />
+
+  <ex
+    name="Age of War"
+  	picture="AgeofWar"
+	  stretch="Uniform"
+    description= "Items: 
+    Otherworldly debris, Magma rock*, Gorgeous Hardwood*, Red armor*, Crimson lotus flower*, Denmuramasa*, Wargod signal fan*, Firedragon breath*, Heavy steelstone*, Whitegold ore*, Spiritcall metal*, Bird cherry*, Fantastical claw*, Godbeast bone*, Otherworldly deposit*, Eye of Truth mask"
+    descriptionFontSize = "14"
+	  advDescription = ""
+	  advDescriptionFontSize = "14"
+  />
+
+  <ex
+    name="Age of Peace"
+  	picture="AgeofPeace"
+	  stretch="Uniform"
+    description= "Items: 
+    Eldritch lantern*, Nightluster cherry*, Fire flag*, Spear fork*, Nightcloth*, Fukusuke doll*, Warrior's dignity*, Black miasmatic stone*, Puresoil*, Spiritcall metal*, Fabled Isle ore*, Fantastical fang*, Godbeast bone*, Otherworldly deposit*, Eye of Truth mask"
+    descriptionFontSize = "14"
+	  advDescription = ""
+	  advDescriptionFontSize = "14"
+  />
+
+  <ex
+    name="Age of Honor"
+  	picture="AgeofHonor"
+	  stretch="Uniform"
+    description= "Items: 
+    Molten lightpoint*, Howling conch*, Pulsing root*, Golden staff*, Shrine grove branch*, Liontooth beetle*, Heavy steelstone*, Whitegold ore*, Straw festoon*, Bird cherry*, Fantastical claw*, Godbeast bone*, Otherworldly deposit*, Eye of Truth mask"
+    descriptionFontSize = "14"
+	  advDescription = ""
+	  advDescriptionFontSize = "14"
+  />
+
+</Maps>

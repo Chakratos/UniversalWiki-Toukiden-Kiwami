@@ -1,0 +1,980 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oni>
+
+  <SmallOni
+  name="Imp | Normal"
+  picture="Imp"
+  stretch="Uniform"
+  description= "Normal
+Item Name 	Chance
+Soil 	Very high
+Tenacious claw 	High
+Abdomen 	Very low"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Imp | Ex"
+  picture="Imp"
+  stretch="Uniform"
+  description= "Ex
+Item Name 	Chance
+Avaricious fang 	High
+Abdomen 	Medium
+Soil 	Low
+Tenacious claw 	Very low"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Imp | Ultimate"
+  picture="Imp"
+  stretch="Uniform"
+  description= "Ultimate:
+Otherworldly debris, Ravenous fang"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Dark Imp | Normal"
+  picture="Dark Imp"
+  stretch="Uniform"
+  description= "Normal
+Item Name 	Chance
+Avaricious claw 	Very high
+Soil 	High
+Underworld souvenir 	Very low "
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Dark Imp | Ex"
+  picture="Dark Imp"
+  stretch="Uniform"
+  description= "Expert
+Item Name 	Chance
+Miasmatic abdomen 	High
+Underworld souvenir 	Medium
+Soil 	Low
+Avaricious claw 	Very low"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Dark Imp | Ultimate"
+  picture="Dark Imp"
+  stretch="Uniform"
+  description= "Ultimate:
+Otherworldly debris, Greedy belly"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Pale Imp | Normal"
+  picture="Pale Imp"
+  stretch="Uniform"
+  description= "Normal
+Item Name 	Chance
+Voracious fang 	Very high
+Shattered horn 	Low
+Petrified bone 	Low
+Luminous shard 	Very low"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Pale Imp | Ex"
+  picture="Pale Imp"
+  stretch="Uniform"
+  description= "Ex
+Item Name 	Chance
+White drum 	High
+Luminous shard 	Medium
+Hardened Oni skin 	Low
+Voracious fang 	Very low"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Pale Imp | Ultimate"
+  picture="Pale Imp"
+  stretch="Uniform"
+  description= "Ultimate:
+Clinging claw, Writhing mud"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Blazing Soul | Normal"
+  picture="Blazing Soul"
+  stretch="Uniform"
+  description= "Normal:
+Item Name 	Chance
+Red eye 	High
+Soil 	High
+Horned skull 	Low "
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Blazing Soul | Ex"
+  picture="Blazing Soul"
+  stretch="Uniform"
+  description= "Ex:
+Item Name 	Chance
+Flame sprite 	High
+Horned skull 	Medium
+Soil 	Low
+Red eye 	Very low "
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Blazing Soul | Ultimate"
+  picture="Blazing Soul"
+  stretch="Uniform"
+  description= "Ultimate:
+Otherworldly debris, Blazing sprite"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Shadow Soul | Normal"
+  picture="Shadow Soul"
+  stretch="Uniform"
+  description= "Normal:
+Item Name 	Chance
+Green eye 	Very high
+Golden skull 	High "
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Shadow Soul | Ex"
+  picture="Shadow Soul"
+  stretch="Uniform"
+  description= "Ex:
+Item Name 	Chance
+Light sprite 	Very high
+Golden skull 	Medium"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Shadow Soul | Ultimate"
+  picture="Shadow Soul"
+  stretch="Uniform"
+  description= "Ultimate:
+Bright sprite"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Poisonspitter | Normal"
+  picture="Poisonspitter"
+  stretch="Uniform"
+  description= "Normal:
+Item Name 	Chance
+Toxic fang 	Very high
+Soil 	Medium
+Strong joint 	Low"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Poisonspitter | Ex"
+  picture="Poisonspitter"
+  stretch="Uniform"
+  description= "Ex:
+Item Name 	Chance
+Filium sac 	High
+Strong joint 	Medium
+Soil 	Low
+Toxic fang 	Very low "
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Poisonspitter | Ultimate"
+  picture="Poisonspitter"
+  stretch="Uniform"
+  description= "Ultimate:
+Otherworldly debris, Large filum sac"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Sleepspitter | Normal"
+  picture="Sleepspitter"
+  stretch="Uniform"
+  description= "Normal:
+Item Name 	Chance
+Hypno fang 	Very high
+Soul serum 	Low
+Deformed bone 	Low
+Violet needle 	Very low"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Sleepspitter | Ex"
+  picture="Sleepspitter"
+  stretch="Uniform"
+  description= "Ex:
+Item Name 	Chance
+Dream bellows 	High
+Hardened Oni skin 	Medium
+Violet needle 	Low
+Hypno fang 	Very low "
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Sleepspitter | Ultimate"
+  picture="Sleepspitter"
+  stretch="Uniform"
+  description= "Ultimate:
+Eternal sleep fang, Writhing mud"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Aurwing | Normal"
+  picture="Aurwing"
+  stretch="Uniform"
+  description= "Normal:
+Item Name 	Chance
+Large ear 	Very high
+Soil 	High
+Mordant fang 	Very low"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Aurwing | Ex"
+  picture="Aurwing"
+  stretch="Uniform"
+  description= "Ex:
+Item Name 	Chance
+Carapace 	High
+Soil 	Medium
+Mordant fang 	Low
+Large ear 	Very low "
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Aurwing | Ultimate"
+  picture="Aurwing"
+  stretch="Uniform"
+  description= "Ultimate:
+Otherworldly debris, Smooth tail"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Dark Aurwing | Normal"
+  picture="Dark Aurwing"
+  stretch="Uniform"
+  description= "Normal:
+Item Name 	Chance
+Long tail 	Very high
+Soil 	Medium
+Unclean ear 	Very low "
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Dark Aurwing | Ex"
+  picture="Dark Aurwing"
+  stretch="Uniform"
+  description= "Ex:
+Item Name 	Chance
+Black carapace 	High
+Unclean ear 	Medium
+Soil 	Low
+Long tail 	Very low "
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Dark Aurwing | Ultimate"
+  picture="Dark Aurwing"
+  stretch="Uniform"
+  description= "Ultimate:
+Otherworldly debris, Cooling pipes"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Pale Aurwing | Normal"
+  picture="Pale Aurwing"
+  stretch="Uniform"
+  description= "Normal:
+Item Name 	Chance
+Energy cell 	Very high
+Oni bone 	Low
+Deformed skin 	Low
+White ear 	Very low"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Pale Aurwing | Ex"
+  picture="Pale Aurwing"
+  stretch="Uniform"
+  description= "Ex:
+Item Name 	Chance
+Insulator 	High
+Hardened Oni bone 	Medium
+White ear 	Low
+Energy cell 	Very Low"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Pale Aurwing | Ultimate"
+  picture="Pale Aurwing"
+  stretch="Uniform"
+  description= "Ultimate:
+Pale carapace, Soul juice"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Earthfang | Normal"
+  picture="Earthfang"
+  stretch="Uniform"
+  description= "Normal:
+Item Name 	Chance
+Wet skin 	Very high
+Soil 	Medium
+Tunneling fang 	Low"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Earthfang | Ex"
+  picture="Earthfang"
+  stretch="Uniform"
+  description= "Ex:
+Item Name 	Chance
+Photoreceptor 	High
+Hardened Oni bone 	Medium
+Tunneling fang 	Low
+Wet skin 	Very low "
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Earthfang | Ultimate"
+  picture="Earthfang"
+  stretch="Uniform"
+  description= "Ultimate:
+Tunneling truefang, Soul juice"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Frostfang | Normal"
+  picture="Frostfang"
+  stretch="Uniform"
+  description= "Normal:
+Item Name 	Chance
+Unclean hide 	Very high
+Soul serum 	Low
+Mysterious fang 	Low
+Elastic band 	Very low "
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Frostfang | Ex"
+  picture="Frostfang"
+  stretch="Uniform"
+  description= "Ex:
+Item Name 	Chance
+Moonstone 	High
+Mysterious claw (L) 	Medium
+Elastic band 	Low
+Unclean hide 	Very low "
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Frostfang | Ultimate"
+  picture="Frostfang"
+  stretch="Uniform"
+  description= "Ultimate:
+Ice tunneling fang, Fantastical claw"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Drumble | Normal"
+  picture="Drumble"
+  stretch="Uniform"
+  description= "Normal:
+Item Name 	Chance
+Snakeskin 	Very high
+Viscous mud 	Low
+Deformed skin 	Low
+Large fang 	Very low
+	"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Drumble | Ex"
+  picture="Drumble"
+  stretch="Uniform"
+  description= "Ex:
+Item Name 	Chance
+Mutant sac 	High
+Hardened Oni skin 	Medium
+Large fang 	Low
+Snakeskin 	Very low "
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Drumble | Ultimate"
+  picture="Drumble"
+  stretch="Uniform"
+  description= "Ultimate:
+Hard snakeskin, Writhing mud"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Umbrapood | Normal"
+  picture="Umbrapood"
+  stretch="Uniform"
+  description= "Normal:
+Item Name 	Chance
+White snakeskin 	Very high
+Short foot 	High "
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Umbrapood | Ex"
+  picture="Umbrapood"
+  stretch="Uniform"
+  description= "Ex:
+Item Name 	Chance
+Haku sac 	Very high
+Short foot 	Medium"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Umbrapood | Ultimate"
+  picture="Umbrapood"
+  stretch="Uniform"
+  description= "Ultimate:
+Sparkling snakeskin"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Crawler | Normal"
+  picture="Crawler"
+  stretch="Uniform"
+  description= "Normal:
+Item Name 	Chance
+Crawler's claw 	Very high
+Oni skin 	Low
+Mysterious claw 	Low
+Metal skin 	Very low"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Crawler | Ex"
+  picture="Crawler"
+  stretch="Uniform"
+  description= "Ex:
+Item Name 	Chance
+Armor breaker 	Very High
+Small horn 	Medium
+Metal skin 	Low
+Crawler's claw 	Very low"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Crawler | Ultimate"
+  picture="Crawler"
+  stretch="Uniform"
+  description= "Ultimate:
+Armor crusher, Fine horn"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Frostcrawler | Normal"
+  picture="Frostcrawler"
+  stretch="Uniform"
+  description= "Normal:
+Item Name 	Chance
+Unclean metal skin 	Very high
+Shattered horn 	Low
+Petrified bone 	Low
+Hard back spike 	Very low"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Frostcrawler | Ex"
+  picture="Frostcrawler"
+  stretch="Uniform"
+  description= "Ex:
+Item Name 	Chance
+Thick metal bone 	Very high
+Hard back spike 	Medium
+Mysterious fang (L) 	Low
+Unclean metal skin 	Very low"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Frostcrawler | Ultimate"
+  picture="Frostcrawler"
+  stretch="Uniform"
+  description= "Ultimate:
+Hard ice breaker, Fantastical fang"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Thorntongue | Normal"
+  picture="Thorntongue"
+  stretch="Uniform"
+  description= "Normal:
+Item Name 	Chance
+Spiky tongue 	Very high
+Soul serum 	Low
+Mysterious claw 	Low
+Toad oil 	Very low"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Thorntongue | Ex"
+  picture="Thorntongue"
+  stretch="Uniform"
+  description= "Ex:
+Item Name 	Chance
+Toxic pool 	High
+Small horn 	Medium
+Toad oil 	Low
+Spiky tongue 	Very low "
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Thorntongue | Ultimate"
+  picture="Thorntongue"
+  stretch="Uniform"
+  description= "Ultimate:
+Hypertoxic pond, Fine horn"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Firetongue | Normal"
+  picture="Firetongue"
+  stretch="Uniform"
+  description= "Normal:
+Item Name 	Chance
+Unclean tongue 	Very high
+Soul shard 	Low
+Jet black claw 	Low
+Grief sac 	Very low"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Firetongue | Ex"
+  picture="Firetongue"
+  stretch="Uniform"
+  description= "Ex:
+Item Name 	Chance
+Miasma hump 	High
+Grief sac 	Medium
+Cryptid bone 	Low
+Unclean tongue 	Very low"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Firetongue | Ultimate"
+  picture="Firetongue"
+  stretch="Uniform"
+  description= "Ultimate:
+Impure firesac, Godbeast bone"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Rockshell | Normal"
+  picture="Rockshell"
+  stretch="Uniform"
+  description= "Normal:
+Item Name 	Chance
+Stone shell 	Very high
+Thrusting horn 	Low
+Oni bone 	Low
+Deformed bone 	Very low
+	"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Rockshell | Ex"
+  picture="Rockshell"
+  stretch="Uniform"
+  description= "Ex:
+Item Name 	Chance
+Stomping foot 	High
+Hardened Oni bone 	Medium
+Thrusting horn 	Low
+Stone shell 	Very low"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Rockshell | Ultimate"
+  picture="Rockshell"
+  stretch="Uniform"
+  description= "Ultimate:
+Boulder shell, Soul juice"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Blistershell | Normal"
+  picture="Blistershell"
+  stretch="Uniform"
+  description= "Normal:
+Item Name 	Chance
+Foul red shell 	Very high
+Viscous mud 	Low
+Deformed skin 	Low
+Scorched horn 	Very low
+	"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Blistershell | Ex"
+  picture="Blistershell"
+  stretch="Uniform"
+  description= "Ex:
+Item Name 	Chance
+Sturdy plastron 	High
+Mysterious fang (L) 	Medium
+Scorched horn 	Low
+Foul red shell 	Very low "
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Blistershell | Ultimate"
+  picture="Blistershell"
+  stretch="Uniform"
+  description= "Ultimate:
+Blistering shell, Fantastical fang"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Howler | Normal"
+  picture="Howler"
+  stretch="Uniform"
+  description= "Normal:
+Item Name 	Chance
+Tiger pelt 	Very high
+Oni skin 	Low
+Mysterious fang 	Low
+Wriggling snake tail 	Very low "
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Howler | Ex"
+  picture="Howler"
+  stretch="Uniform"
+  description= "Ex:
+Item Name 	Chance
+Large monkey fang 	High
+Small horn 	Medium
+Wriggling snake tail 	Low
+Tiger pelt 	Very low "
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Howler | Ultimate"
+  picture="Howler"
+  stretch="Uniform"
+  description= "Ultimate:
+Eldritch tiger pelt, Fine horn"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Blitzer | Normal"
+  picture="Blitzer"
+  stretch="Uniform"
+  description= "Normal:
+Item Name 	Chance
+Soul shredder 	Very high
+Shattered horn 	Low
+Petrified bone 	Low
+Golden fur 	Very low "
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Blitzer | Ex"
+  picture="Blitzer"
+  stretch="Uniform"
+  description= "Ex:
+Item Name 	Chance
+Black tiger pelt 	High
+Mysterious claw (L) 	Medium
+Golden fur 	Low
+Soul shredder 	Very low"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Blitzer | Ultimate"
+  picture="Blitzer"
+  stretch="Uniform"
+  description= "Ultimate:
+Black soul shredder, Fantastical claw"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Sickleclaw | Normal"
+  picture="Sickleclaw"
+  stretch="Uniform"
+  description= "Normal:
+Item Name 	Chance
+Sickleclaw talon 	Very high
+Oni skin 	Low
+Mysterious claw 	Low
+Fire starter 	Very low"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Sickleclaw | Ex"
+  picture="Sickleclaw"
+  stretch="Uniform"
+  description= "Ex:
+Item Name 	Chance
+Blaze bag 	High
+Hardened Oni bone 	Medium
+Fire starter 	Low
+Sickleclaw talon 	Very low "
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Sickleclaw | Ultimate"
+  picture="Sickleclaw"
+  stretch="Uniform"
+  description= "Ultimate:
+Crimson carapace, Soul juice"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Soulreaper | Normal"
+  picture="Soulreaper"
+  stretch="Uniform"
+  description= "Normal:
+Item Name 	Chance
+Golden carapace 	Very high
+Soul shard 	Low
+Jet black claw 	Low
+Golden reaper 	Very low "
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Soulreaper | Ex"
+  picture="Soulreaper"
+  stretch="Uniform"
+  description= "Ex:
+Item Name 	Chance
+Armored tail 	High
+Mysterious claw (L) 	Medium
+Golden reaper 	Low
+Golden carapace 	Very low "
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Soulreaper | Ultimate"
+  picture="Soulreaper"
+  stretch="Uniform"
+  description= "Ultimate:
+Whitegold carapace, Fantastical fang"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Razortalon | Normal"
+  picture="Razortalon"
+  stretch="Uniform"
+  description= "Normal:
+Item Name 	Chance
+Black feather 	Very high
+Oni bone 	Low
+Mysterious fang 	Low
+Raptor talon 	Very low"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Razortalon | Ex"
+  picture="Razortalon"
+  stretch="Uniform"
+  description= "Ex:
+Item Name 	Chance
+Black wing quill 	High
+Small horn 	Medium
+Raptor talon 	Low
+Black feather 	Very low"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Razortalon | Ultimate"
+  picture="Razortalon"
+  stretch="Uniform"
+  description= "Ultimate:
+Obsidian wing quill, Fine horn"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Goldentalon | Normal"
+  picture="Goldentalon"
+  stretch="Uniform"
+  description= "Normal:
+Item Name 	Chance
+Gold feather 	Very high
+Soul shard 	Low
+Jet black claw 	Low
+Soul-pecking beak 	Very low"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Goldentalon | Ex"
+  picture="Goldentalon"
+  stretch="Uniform"
+  description= "Ex:
+Item Name 	Chance
+Gold wing quill 	High
+Cyrptid bone 	Medium
+Soul-pecking beak 	Low
+Gold feather 	Very low"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+  <SmallOni
+  name="Goldentalon | Ultimate"
+  picture="Goldentalon"
+  stretch="Uniform"
+  description= "Ultimate:
+Pure gold wing quill, Godbeast bone"
+  descriptionFontSize = "14"
+  advDescription = ""
+  advDescriptionFontSize = "14"
+/>
+</Oni>
